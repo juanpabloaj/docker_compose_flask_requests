@@ -3,7 +3,7 @@ import time
 import requests
 from datetime import datetime
 
-time.sleep(1)
+time.sleep(2)
 
 while True:
     print(datetime.now(), ' request ...')
